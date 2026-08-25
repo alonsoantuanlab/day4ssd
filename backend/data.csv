@@ -1,2 +1,3 @@
 id,brand,model,price,stock,sku,description
 1,Omega,Speedmaster,3000,5,OMEGA-SP-001,Professional chronograph
+2,PWTestBrand,PWTestModel,199.99,5,PW-SKU-001,Playwright E2E test item
