@@ -1,0 +1,8 @@
+{
+  "name": "watch-sales",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "specs:info": "echo \"See specs/README.md for spec-kit setup and usage\""
+  }
+}
